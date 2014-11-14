@@ -33,7 +33,7 @@ html, body {
 /* Lead with big image */
 
 .wrapper {
-  background-image: url('images/coffee_wrapper.jpg') center;
+  background: url('images/coffee_wrapper.jpg') center;
   background-size: cover;
   height: 100%;
   text-align: center;
