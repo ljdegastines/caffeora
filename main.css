@@ -33,7 +33,7 @@ html, body {
 /* Lead with big image */
 
 .wrapper {
-  background-image: url('../images/coffee_wrapper.jpg');
+  background-image: url('images/coffee_wrapper.jpg');
   background-size: cover;
   height: 100%;
   text-align: center;
@@ -50,6 +50,7 @@ html, body {
   font-size: 72px;
   text-shadow: 0 0 20px rgba(0, 0, 0, .8);
   font-weight: normal;
+  margin-top: 0px;
 }
 
 .lead h2 {
